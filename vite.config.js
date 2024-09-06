@@ -19,5 +19,8 @@ export default defineConfig({
         store: 'public/store.html'
       }
     }
+  },
+  server: {
+    port: 5005
   }
 });
